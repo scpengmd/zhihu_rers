@@ -101,4 +101,4 @@ zhihu_login("18064630503", "missmiss")
 get_index()
 is_login()
 
-# get_captcha()
+get_captcha()
