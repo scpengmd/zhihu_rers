@@ -31,7 +31,7 @@ headers2 = {
 b = requests.post('http://viyavi/entityResolution/jobs', headers=headers2)
 print(b.text)
 a='1111'
-
+b='22222'
 
 
 
